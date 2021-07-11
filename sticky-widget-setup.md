@@ -18,9 +18,9 @@ Here is how you can enable and customize the widget.
 5.	Go to the **Sticky widget** tab.
 6.	Choose how the Sticky widget should appear on the page:   
     
-    •	**Auto** — widget appears on the page automatically if there is no search box available.   
-    •	**Always** — widget appears on the page no matter if there is a search box available or not.   
-    •	**Never** — widget is always hidden.   
+    •	**Auto** — the widget appears on the page automatically if there is no search box available.   
+    •	**Always** — the widget is on the page no matter if there is a search box available or not.   
+    •	**Never** — the widget is always hidden.   
     
     ⚠ Note. **Auto** and **Always** modes demand **Search Results Widget** is enabled.   
     
