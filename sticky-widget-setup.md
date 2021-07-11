@@ -11,8 +11,8 @@ Here is how you can enable and customize the widget.
 
 1.	On the left side menu go to Apps section.
 2.	In the list of installed apps find and click Smart Search & Instant Search → Instant search widget.
-3.	Enable Instant search widget if it’s off.
-    ![instant-search-enable](https://github.com/ded-ared/shopify/blob/main/images/instant-search-widget.png "instant-search-widget")
+3.	Enable Instant search widget if it’s off.   
+    ![instant-search-enable](https://github.com/ded-ared/shopify/blob/main/images/instant-search-widget.png "instant-search-widget")   
 4.	Optionally check the box Optimize for phones and tablets.
 5.	Go to Sticky widget tab.
 6.	Choose the way the Sticky widget should appear on the page:
