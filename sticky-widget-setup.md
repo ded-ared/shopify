@@ -5,9 +5,9 @@
 ![sticky-widget](https://github.com/ded-ared/shopify/blob/main/images/search-widget.png "Sticky Widget")
 
 Since **Sticky widget** is an integral part of [Smart Search & Instant Search](https://apps.shopify.com/searchanise), you need to have this app installed before using the widget.   
-Sticky widget is customizable, so you can set up some of its features the way you prefer.
+Sticky widget is customizable. Use the admin panel to set up some of its features the way you prefer.
 
-Here is how you can enable and customize the widget.
+Here is how you can enable and customize the widget:
 
 1.	On the left side menu go to the **Apps** section.
 2.	In the list of installed apps find and click **Smart Search & Instant Search → Instant search widget**.
