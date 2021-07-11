@@ -26,10 +26,10 @@ Here is how you can enable and customize the widget:
     
     ![search-result-widget-enable](https://github.com/ded-ared/shopify/blob/main/images/search-results-widget.png "search-result-widget")
     
-7.	Choose the widget color by the way you find the most convenient:   
+7.	Choose the widget color by the method you find the most convenient:   
     
     •	pick it up in the color square;   
-    •	insert the color code if t’s known;   
+    •	insert the color code if it’s known;   
     •	click **Reset** button to reset to the default color.   
 
 8.	Choose the widget position on the storefront:   
