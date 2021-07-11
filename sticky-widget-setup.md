@@ -22,7 +22,7 @@ Here is how you can enable and customize the widget.
     •	**Always** — the widget is on the page no matter if there is a search box available or not.   
     •	**Never** — the widget is always hidden.   
     
-    ⚠ Note. **Auto** and **Always** modes demand **Search Results Widget** is enabled.   
+    ⚠ Note. **Auto** and **Always** modes demand **Search Results Widget** enabled.   
     
     ![search-result-widget-enable](https://github.com/ded-ared/shopify/blob/main/images/search-results-widget.png "search-result-widget")
     
