@@ -24,7 +24,8 @@ https://yandex.ru/support/browser/search-and-browse/tabs.html#problems
 
 Не очень понятно, зачем она дублируется.
 Предлагаю на это место разместить как раз **Report a Problem**.
-скрин
+
+![changing-places](https://github.com/ded-ared/shopify/blob/main/images/help-1.png)
 
 ## 4. Нужно содержание с подзаголовками внутри больших статей.
 
