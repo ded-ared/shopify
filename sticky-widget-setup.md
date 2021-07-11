@@ -1,4 +1,4 @@
-# How to enable and set up Sticky Widget
+# How to enable and set up Sticky Widget ![sticky-widget](https://github.com/ded-ared/shopify/blob/main/images/search-widget.png "Sticky Widget")
 
 **Sticky widget** is a nifty and convenient tool that gives you access to the search box and stays visible on the storefront no matter how far you have scrolled a page.   
 
