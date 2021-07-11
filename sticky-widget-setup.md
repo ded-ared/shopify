@@ -20,5 +20,4 @@ Here is how you can enable and customize the widget.
     *	Auto — widget appears on the page automatically if there is no search box available.
     *	Always — widget appears on the page no matter if there is a search box available or not.
     *	Never — widget is always hidden.   
-    |-----|   
-    |⚠ Note. Auto and Always modes demand Search Results Widget is enabled.|   
+    ⚠ Note. Auto and Always modes demand Search Results Widget is enabled.   
