@@ -30,7 +30,7 @@ Here is how you can enable and customize the widget.
     
     •	pick it up in the color square;   
     •	insert the color code if t’s known;   
-    •	click Reset button to reset to the default color.   
+    •	click **Reset** button to reset to the default color.   
 
 8.	Choose the widget position on the storefront:   
     
@@ -39,7 +39,7 @@ Here is how you can enable and customize the widget.
     •	bottom-left;   
     •	bottom-right.
 
-9.	Optionally you can change the text in the Search input placeholder (that’s what customers would see in the search box), or leave it empty.
-10.	On the top-right of the screen click Apply changes.   
+9.	Optionally you can change the text in the **Search input placeholder** (that’s what customers would see in the search box), or leave it empty.
+10.	On the top-right of the screen click **Apply changes**.   
 
-You can change the settings any time you want. Just go to Sticky widget tab, change the settings you need and save them by applying changes.
+You can change the settings any time you want. Just go to the **Sticky widget** tab, change the settings you need and save them by applying changes.
