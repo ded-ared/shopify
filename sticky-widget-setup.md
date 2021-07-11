@@ -2,7 +2,7 @@
 
 **Sticky widget** is a nifty and convenient tool that gives you access to the search box and stays visible on the storefront no matter how far you have scrolled a page.   
 
-    ![sticky-widget](https://github.com/ded-ared/shopify/blob/main/images/search-widget-screen.png "Sticky Widget")   
+![sticky-widget](https://github.com/ded-ared/shopify/blob/main/images/search-widget-screen.png "Sticky Widget")   
 
 Since **Sticky widget** is an integral part of [Smart Search & Instant Search](https://apps.shopify.com/searchanise), you need to have this app installed before using the widget.   
 Sticky widget is customizable. Use the admin panel to set up some of its features the way you prefer.
