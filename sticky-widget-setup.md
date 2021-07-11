@@ -21,7 +21,20 @@ Here is how you can enable and customize the widget.
     *	**Always** — widget appears on the page no matter if there is a search box available or not.
     *	**Never** — widget is always hidden.   
     
-    ⚠ Note. **Auto** and **Always** modes demand Search Results Widget is enabled.   
+    ⚠ Note. **Auto** and **Always** modes demand **Search Results Widget** is enabled.   
     
     ![search-result-widget-enable](https://github.com/ded-ared/shopify/blob/main/images/search-results-widget.png "search-result-widget")
     
+7.	Choose the widget color by the way you find the most convenient:
+    •	pick it up in the color square;
+    •	insert the color code if t’s known;
+    •	click Reset button to reset to the default color.
+8.	Choose the widget position on the storefront:
+    •	top-left;
+    •	top-right;
+    •	bottom-left;
+    •	bottom-right.
+9.	Optionally you can change the text in the Search input placeholder (that’s what customers would see in the search box), or leave it empty.
+10.	On the top-right of the screen click Apply changes.   
+
+You can change the settings any time you want. Just go to Sticky widget tab, change the settings you need and save them by applying changes.
