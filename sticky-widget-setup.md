@@ -17,6 +17,7 @@ Here is how you can enable and customize the widget.
 4.	Optionally check the box **Optimize for phones and tablets**.
 5.	Go to the **Sticky widget** tab.
 6.	Choose the way the Sticky widget should appear on the page:   
+    
     •	**Auto** — widget appears on the page automatically if there is no search box available.   
     •	**Always** — widget appears on the page no matter if there is a search box available or not.   
     •	**Never** — widget is always hidden.   
@@ -26,11 +27,13 @@ Here is how you can enable and customize the widget.
     ![search-result-widget-enable](https://github.com/ded-ared/shopify/blob/main/images/search-results-widget.png "search-result-widget")
     
 7.	Choose the widget color by the way you find the most convenient:   
+    
     •	pick it up in the color square;   
     •	insert the color code if t’s known;   
     •	click Reset button to reset to the default color.   
 
 8.	Choose the widget position on the storefront:   
+    
     •	top-left;   
     •	top-right;   
     •	bottom-left;   
