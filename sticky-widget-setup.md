@@ -12,3 +12,5 @@ Here is how you can enable and customize the widget.
 1.	On the left side menu go to Apps section.
 2.	In the list of installed apps find and click Smart Search & Instant Search → Instant search widget.
 3.	Enable Instant search widget if it’s off.
+
+Пример <a href="https://google.ru" target="_blank" title="Гугл">один
